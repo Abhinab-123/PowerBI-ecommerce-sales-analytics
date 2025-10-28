@@ -68,7 +68,7 @@ Sub-category level profit analysis for better product-level insights.
 
 ## 📸 Dashboard Preview
 
-powerbi-ecommerce-sales-dashboard.png
+[powerbi-ecommerce-sales-dashboard.png](https://github.com/Abhinab-123/PowerBI-ecommerce-sales-analytics/blob/28152b325861932ff94afc90ca4888a42c017e6f/powerbi-ecommerce-sales-dashboard.png)
 
 ## 📂 Project Structure
 
