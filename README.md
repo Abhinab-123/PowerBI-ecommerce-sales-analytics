@@ -1,4 +1,4 @@
-# 🛍️ Ayush Ecommerce Sales Dashboard (Power BI)
+# 🛍️ ABHI Ecommerce Sales Dashboard (Power BI)
 
 This project showcases an **interactive and visually engaging Power BI dashboard** designed to analyze and visualize ecommerce sales data.  
 It provides a comprehensive view of key business metrics such as revenue, profit, quantity sold, and average order value (AOV), along with insightful breakdowns by category, state, customer, and payment mode.
@@ -7,7 +7,7 @@ It provides a comprehensive view of key business metrics such as revenue, profit
 
 ## 📊 Dashboard Overview
 
-The **Ayush Ecommerce Sales Dashboard** helps track and analyze ecommerce performance across multiple dimensions.  
+The **ABHI Ecommerce Sales Dashboard** helps track and analyze ecommerce performance across multiple dimensions.  
 The dashboard enables data-driven decision-making by offering clear, interactive visuals and filters for quarterly and monthly insights.
 
 ### Key Metrics:
@@ -92,7 +92,7 @@ Sub-category level profit analysis for better product-level insights.
 
 ## 👨‍💻 Author
 
-**Ayush**  
+**Abhinab**  
 💼 Data Analyst | Power BI Developer  
 📧 [abhinabsukla843@gmail.com]  
 🔗 [www.linkedin.com/in/abhinab-sukla]
